@@ -25,7 +25,6 @@ For private audits or security consulting, please contact me on Twitter (@0x_0x3
 | Resolv Core  | Infrastructure for tokenized ETH based delta-neutral strategy of Resolv  | 1 | Sherlock |
 | Velar Artha PerpDEX  | Audit The World’s First perpetual DEX on Bitcoin | 4 | Sherlock |
 | Flayer  | ƒlayer is a liquidity protocol for NFTs with custom Uniswap V4 hook | 14 | Sherlock |
-
 | Ethos Network Social Contracts  | social reputation platform | 6 | Sherlock |
 
 
