@@ -10,6 +10,10 @@ For private audits or security consulting, please contact me on Twitter (@0x_0x3
 ### Public Audit Contests
 |  Contest   | Description  | Ranking | Platform |
 |  -----     | -----------  | ------- | -------- |
+| Term-Structure-Competition  | Derivative  | 2 | Cantina |
+| AXION  | Stablecoin  | 2 | Sherlock |
+| Usual V1  | stablecoin | 1 | Sherlock |
+| Debita Finance V3  | Debita is a dApp focused on financial NFTs | 5 | Sherlock |
 | Smilee Finance  | Decentralized options protocol disrupting DeFi  | 3 | Sherlock |
 | Napier  | The liquidity hub for yield trading. | 6 | Sherlock |
 | Amphor  | The liquidity hub for yield trading.  | 11 | Sherlock |
@@ -21,10 +25,10 @@ For private audits or security consulting, please contact me on Twitter (@0x_0x3
 | Resolv Core  | Infrastructure for tokenized ETH based delta-neutral strategy of Resolv  | 1 | Sherlock |
 | Velar Artha PerpDEX  | Audit The World’s First perpetual DEX on Bitcoin | 4 | Sherlock |
 | Flayer  | ƒlayer is a liquidity protocol for NFTs with custom Uniswap V4 hook | 14 | Sherlock |
-| AXION  | Stablecoin  | 2 | Sherlock |
+
 | Ethos Network Social Contracts  | social reputation platform | 6 | Sherlock |
-| Usual V1  | stablecoin | 1 | Sherlock |
-| Debita Finance V3  | Debita is a dApp focused on financial NFTs | 5 | Sherlock |
+
+
 
 <!---
 0x37-web3/0x37-web3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
