@@ -10,6 +10,7 @@ For private audits or security consulting, please contact me on Twitter (@0x_0x3
 ### Public Audit Contests
 |  Contest   | Description  | Ranking | Platform |
 |  -----     | -----------  | ------- | -------- |
+｜ Concrete   | The DeFi Liquidity Metalayer ｜ 2 ｜ Code4Rena |
 | Term-Structure-Competition  | Derivative  | 2 | Cantina |
 | AXION  | Stablecoin  | 2 | Sherlock |
 | Usual V1  | stablecoin | 1 | Sherlock |
